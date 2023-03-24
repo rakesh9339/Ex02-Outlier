@@ -82,7 +82,9 @@ df4.shape
 
 sns.boxplot(x='height',data=df4)
 # Output
+# DATASET NULL VALUES(BHP)
 ![DATASET NULL VALUES(BHP)](https://user-images.githubusercontent.com/121115650/227604362-c751ae65-828c-48cc-98df-78a3ad5555c4.png)
+# DATASET SHAPE WITH OUTLIERS(BHP)
 ![DATASET SHAPE WITH OUTLIERS(BHP)](https://user-images.githubusercontent.com/121115650/227604390-bd291108-4638-4aff-b918-58ef7152a966.png)
 ![DATASET BOXPLOT WITH OUTLIERS(BHP)](https://user-images.githubusercontent.com/121115650/227604413-a7257840-b59b-4129-a155-ff18b51d06cb.png)
 ![DATASET WITHOUT OUTLIERS(BHP)](https://user-images.githubusercontent.com/121115650/227604428-d9d491d4-761a-4c39-a76b-f7d84a406d36.png)
