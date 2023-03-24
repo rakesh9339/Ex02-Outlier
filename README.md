@@ -81,5 +81,10 @@ df4
 df4.shape
 
 sns.boxplot(x='height',data=df4)
+# Output
+
+
+
+
 # Result
 DATASET BOXPLOT AFTER REMOVING OUTLIERS USING IQR METHOD(WEIGHT_HEIGHT).
