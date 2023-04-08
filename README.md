@@ -34,7 +34,7 @@ Plot the datas using Box Plot
 
 # Program:
 
-(1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe
+(1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe:
 ```
 import pandas as pd
 import numpy as np
@@ -123,7 +123,8 @@ df5
 df5.shape
 
 sns.boxplot(x="height",data=df5)
-# Output
+```
+# Output:
 # DATASET NULL VALUES(BHP)
 ![DATASET NULL VALUES(BHP)](https://user-images.githubusercontent.com/121115650/227604362-c751ae65-828c-48cc-98df-78a3ad5555c4.png)
 # DATASET SHAPE WITH OUTLIERS(BHP)
