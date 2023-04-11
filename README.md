@@ -55,6 +55,8 @@ df.isnull().sum()
 df.shape
 
 sns.boxplot(x="price_per_sqft",data=df)
+```
+```
 
 q1 = df['price_per_sqft'].quantile(0.25)
 q3 = df['price_per_sqft'].quantile(0.75)
@@ -113,7 +115,6 @@ df4
 df4.shape
 
 sns.boxplot(x="weight",data=df4)
-```
 ```
 ## (4)(ii) For the data set height_weight.csv detect height outliers using IQR method.
 ```
