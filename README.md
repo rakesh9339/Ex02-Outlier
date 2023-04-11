@@ -136,3 +136,5 @@ df5.shape
 
 sns.boxplot(x="height",data=df5)
 ```
+# RESULT:
+The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
