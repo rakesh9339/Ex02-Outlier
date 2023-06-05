@@ -181,7 +181,8 @@ sns.boxplot(x="height",data=df5)
 
 # (4) For the data set height_weight.csv detect weight and height outliers using IQR method.
 # Dataset:
-![Uploading image.png…]()
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/140eedcc-919b-4995-80c1-eda22a6d8afa)
+
 
 # RESULT:
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
