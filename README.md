@@ -140,87 +140,48 @@ sns.boxplot(x="height",data=df5)
 ## (1)(2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe.
 
 # Dataset:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/ecb15a25-0d14-4fa4-87a7-5bbff7809726)
 
-a
 # Dataset Head:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/81e55ac6-c7ac-4901-bc8e-8e4789a9af9b)
 
-a
 # Dataset Info:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/12770895-5c84-4366-bf8f-b660a4969078)
 
-a
 # Dataset Describe:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/ee7025e1-b055-46ff-b577-45920cc2b454)
 
-a
 # Null Values:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/6f60d744-2086-4f82-a9d0-f893920822b6)
 
-a
 # Dataset Shape:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/d02f785c-1a60-4133-a64e-0484505ff29b)
 
-a
 # Box plot of price_per_sqft column with outliers:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/096cddd9-62a0-4ee9-ac8c-e68e51b955f9)
 
-a
 # price_per_sqft - Dataset after removing outliers:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/f097d8dc-9eb1-48ab-a880-8f33851d667e)
 
-a
 # price_per_sqft - Shape of Dataset after removing outliers:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/1b054e93-938c-4a62-b84f-785de522efd8)
 
-a
 # Box Plot of price_per_sqft column without outliers:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/250728b8-1ff5-4ae0-9526-0aeffef4249f)
 
-a
 # (3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
 # Dataset after removal of outlier using z score.
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/977bf33d-b4fe-4ada-ad0c-75739a53d3eb)
 
-a
 # Shape of Dataset after removal of outlier using z score:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/684b7c80-1f5a-4494-985c-ce62ca85d467)
 
-a
 # price_per_sqft column after removing outliers:
+![image](https://github.com/rakesh9339/Ex02-Outlier/assets/121115650/31e17d2d-9cd9-42ae-abbc-83e107e440ea)
 
-a
 # (4) For the data set height_weight.csv detect weight and height outliers using IQR method.
 # Dataset:
+![Uploading image.png…]()
 
-a
-# Dataset Head:
-
-a
-# Dataset Info:
-
-a
-# Dataset Describe:
-
-a
-# Null Values:
-
-a
-# Dataset Shape:
-
-a
-# Weight - With outliers:
-
-a
-# Weight - Dataset after removing Outliers using IQR method:
-
-a
-# Weight - Shape of Dataset after removing Outliers using IQR method:
-
-a
-# Weight - Without Outliers using IQR method:
-
-a
-# Height - With outliers:
-
-a
-# Height - Dataset after removing Outliers using IQR method:
-
-a
-# Height - Shape of Dataset after removing Outliers using IQR method:
-
-a
-# Height - Without Outliers using IQR method:
-
-a
 # RESULT:
 The given datasets are read and outliers are detected and are removed using IQR and z-score methods.
